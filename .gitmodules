@@ -1,0 +1,3 @@
+[submodule "frontend-node"]
+	path = frontend-node
+	url = git@gitee.com:dev-edu/frontend-node.git
